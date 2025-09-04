@@ -50,8 +50,3 @@ getQuote error: Cannot divide by 0
 - After fix, running this PoC should print a graceful error or a valid quote; no thrown exceptions.
 
 
-
-## Submission Format (per listing)
-- Target SDK: `@saros-finance/dlmm-sdk` must be submitted via a public link (e.g., GitHub repo or Gist) with the same details.
-- Plan: Host this PoC as a public GitHub repo and share the link in the Superteam submission.
-# saros-js-esm-dir-import-poc
