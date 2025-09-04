@@ -1,0 +1,16 @@
+{
+  "name": "saros-dlmm-ts-division-by-zero-poc",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "ts-node --transpile-only index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "10.9.2",
+    "typescript": "5.5.4"
+  },
+  "dependencies": {
+    "@saros-finance/dlmm-sdk": "^1.4.0",
+    "@solana/web3.js": "^1.95.3"
+  }
+}
